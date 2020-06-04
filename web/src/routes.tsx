@@ -1,9 +1,5 @@
 import React from "react";
-import "./App.css";
+import { Route, BrowserRouter } from "react-router-dom";
+
 import Home from "./pages/Home";
 import CreatePoint from "./pages/CreatePoint";
-
-function App() {
-  return <Home />;
-}
-export default App;
