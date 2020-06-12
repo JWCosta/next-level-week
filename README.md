@@ -31,7 +31,7 @@
 
 <br>
 
-##  ℹ️  How to use
+## ℹ️ How to use
 
 Clone of repository
 ```bash 
@@ -67,7 +67,7 @@ $ npm start ou yarn start ou expo start
 
 <br>
 
-## 💻  Tecnologies
+## 💻 Tecnologies
 
 - <a href="https://www.typescriptlang.org/">TypeScript</a>
 - <a href="https://nodejs.org/en/">Node js</a>
@@ -94,4 +94,4 @@ $ npm start ou yarn start ou expo start
 <br>
 <hr>
 
-<h3 align = "center"> Made with  💚  by <a href="https://linkedin.com/in/jonathan-ws-costa">Jonathan Costa </a></h3>
+<h3 align = "center"> Made with 💚 by <a href="https://linkedin.com/in/jonathan-ws-costa">Jonathan Costa </a></h3>
