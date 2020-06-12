@@ -7,7 +7,7 @@
 <h3 align = "center">
 
 [How to use](#-how-to-use) | 
-[Tecnologies](#-tecnologies)
+[Technologies](#-technologies)
 
 </h3>
 
@@ -67,7 +67,7 @@ $ npm start ou yarn start ou expo start
 
 <br>
 
-## 💻 Tecnologies
+## 💻 Technologies
 
 - <a href="https://www.typescriptlang.org/">TypeScript</a>
 - <a href="https://nodejs.org/en/">Node js</a>
