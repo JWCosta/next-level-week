@@ -13,7 +13,7 @@
 
 <br>
 
-## 🔖 Description
+##  🔖 Description
 
 <h4 align = "center">
 ♻ During Rockeseat's Next Level Week, with the help of <a href="https://github.com/diego3g">Diego Shell Fernandes</a>, we developed a Web application (Front-end and Back-end) and a cell phone called "Ecoleta", an application aimed at sustainable development that aims to register establishments that collect waste (organic, electronic and others) efficiently helping to dispose of correctly and preserving the environment.
@@ -31,7 +31,7 @@
 
 <br>
 
-## ℹ️ Como usar
+##  ℹ️  How to use
 
 Clone of repository
 ```bash 
@@ -67,7 +67,7 @@ $ npm start ou yarn start ou expo start
 
 <br>
 
-## 💻 Tecnologies
+## 💻  Tecnologies
 
 - <a href="https://www.typescriptlang.org/">TypeScript</a>
 - <a href="https://nodejs.org/en/">Node js</a>
@@ -94,4 +94,4 @@ $ npm start ou yarn start ou expo start
 <br>
 <hr>
 
-<h3 align = "center"> Made with 💚 by <a href="https://linkedin.com/in/jonathan-ws-costa">Jonathan Costa </a></h3>
+<h3 align = "center"> Made with  💚  by <a href="https://linkedin.com/in/jonathan-ws-costa">Jonathan Costa </a></h3>
