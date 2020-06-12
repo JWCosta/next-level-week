@@ -6,23 +6,23 @@
 
 <h3 align = "center">
 
-[Como Usar](#-como-usar) | 
-[Tecnologias](#-tecnologias)
+[How to use](#-how-to-use) | 
+[Tecnologies](#-tecnologies)
 
 </h3>
 
 <br>
 
-## 🔖 Descrição
+## 🔖 Description
 
 <h4 align = "center">
-♻ Durante o Next Level Week da Rockeseat desenvolvemos uma aplicação web (Front-end e Back-end integrado com uma API RESTFul) e mobile chamada "Ecoleta" que tem como intuito o cadastro de estabelecimentos que realizam a coletas de resíduos, auxiliando de forma eficiente a destinação correta de tais resíduos.
+♻ During Rockeseat's Next Level Week, with the help of <a href="https://github.com/diego3g">Diego Shell Fernandes</a>, we developed a Web application (Front-end and Back-end) and a cell phone called "Ecoleta", an application aimed at sustainable development that aims to register establishments that collect waste (organic, electronic and others) efficiently helping to dispose of correctly and preserving the environment.
 </h3>
 
 <br>
 
 <h1 align = "center">
-    <img src = ".github/Capa.png">
+    <img src = ".github/Capa.png" alt="Layout" width="550px">
 </h1>
 
 <h2 align = "center">
@@ -33,33 +33,41 @@
 
 ## ℹ️ Como usar
 
-Clone do repositório
+Clone of repository
 ```bash 
 $ git clone https://github.com/JWCosta/next-level-week.git 
 $ cd next-level-week
 ```
-Após entrar na pasta do projeto, você deverá instalar as dependências das seguintes formas:
+After entering the project folder, you must install the dependencies in the following ways:
 ```bash 
 #Install dependencies back-end
 $ cd server
 $ npm install ou yarn install
+# Run Migrates
+$ npm knex:migrate
+# Run Seeds
+$ npm knex:seed
+# Start server
 $ npm run dev
 ```
 ```bash 
 #Install dependencies front-end 
-$ cd web $ npm install ou yarn install
+$ cd web 
+$ npm install ou yarn install
+# Start front-end
 $ npm start ou yarn start
 ```
 ```bash 
 #Install dependencies mobile
 $ cd mobile
 $ npm install ou yarn install
+# Start mobile
 $ npm start ou yarn start ou expo start
 ```
 
 <br>
 
-## 💻 Tecnologias
+## 💻 Tecnologies
 
 - <a href="https://www.typescriptlang.org/">TypeScript</a>
 - <a href="https://nodejs.org/en/">Node js</a>
@@ -73,9 +81,9 @@ $ npm start ou yarn start ou expo start
 - <a href="https://react-dropzone.js.org/">React Dropzone</a>
 - <a href="https://reactnative.dev/">React Native</a>
 - <a href="https://reactnavigation.org/">React navigation</a>
-- <a href="https://leafletjs.com/">Leaflet</a> e <a href="https://react-leaflet.js.org/docs/en/installation">React leaflet</a> para a integração do mapa
+- <a href="https://leafletjs.com/">Leaflet</a> e <a href="https://react-leaflet.js.org/docs/en/installation">React leaflet</a>
 - <a href="https://www.npmjs.com/package/axios">Axios</a>
-- <a href="https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-_">Api IBGE</a> para listar corretamente os estados e cidades
+- <a href="https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-_">API IBGE</a>
 - <a href="https://expo.io/">Expo</a>
 - <a href="https://docs.expo.io/versions/latest/sdk/mail-composer/">Expo mail composer</a>
 - <a href="https://docs.expo.io/versions/latest/sdk/location/">Expo location</a>
@@ -86,4 +94,4 @@ $ npm start ou yarn start ou expo start
 <br>
 <hr>
 
-<h3 align = "center"> Feito com 💚 por <a href="https://linkedin.com/in/jonathan-ws-costa">Jonathan Costa </a></h3>
+<h3 align = "center"> Made with 💚 by <a href="https://linkedin.com/in/jonathan-ws-costa">Jonathan Costa </a></h3>
