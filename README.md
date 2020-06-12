@@ -31,7 +31,7 @@
 
 <br>
 
-## ℹ️ How to use
+## 📌 How to use
 
 Clone of repository
 ```bash 
@@ -81,7 +81,7 @@ $ npm start ou yarn start ou expo start
 - <a href="https://react-dropzone.js.org/">React Dropzone</a>
 - <a href="https://reactnative.dev/">React Native</a>
 - <a href="https://reactnavigation.org/">React navigation</a>
-- <a href="https://leafletjs.com/">Leaflet</a> e <a href="https://react-leaflet.js.org/docs/en/installation">React leaflet</a>
+- <a href="https://leafletjs.com/">Leaflet</a> / <a href="https://react-leaflet.js.org/docs/en/installation">React leaflet</a>
 - <a href="https://www.npmjs.com/package/axios">Axios</a>
 - <a href="https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-_">API IBGE</a>
 - <a href="https://expo.io/">Expo</a>
@@ -94,4 +94,4 @@ $ npm start ou yarn start ou expo start
 <br>
 <hr>
 
-<h3 align = "center"> Made with 💚 by <a href="https://linkedin.com/in/jonathan-ws-costa">Jonathan Costa </a></h3>
+<h3 align = "center"> Made with 💚  by <a href="https://linkedin.com/in/jonathan-ws-costa">Jonathan Costa </a></h3>
